@@ -7,5 +7,5 @@ metadata:
 description: prod
 requireApproval: true
 gke:
-  cluster: projects/lala4-377416/locations/us-central1/clusters/cluster-2
+  cluster: projects/lala4-377416/locations/us-central1-a/clusters/clust-2
 
